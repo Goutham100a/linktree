@@ -38,7 +38,7 @@ const Index = () => {
       delay: 4
     },
     { 
-      href: "https://wa.me/9995688916", 
+      href: "https://wa.me/919995688916", 
       label: "WhatsApp", 
       icon: <MessageCircle className="w-5 h-5" />,
       delay: 5
