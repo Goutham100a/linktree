@@ -15,7 +15,7 @@ const ProfileAvatar = ({ name, className }: ProfileAvatarProps) => {
         className
       )}>
         <img 
-          src="https://mir-s3-cdn-cf.behance.net/user/115/b8eb26464831253.67cefad487f2d.jpg" 
+          src="https://mir-s3-cdn-cf.behance.net/user/230/d4baa6464831253.67fe48fa50e3a.png" 
           alt={name}
           className="w-full h-full object-cover"
         />
